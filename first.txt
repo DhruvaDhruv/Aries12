@@ -1,0 +1,4 @@
+today is tuesday
+month is march
+year is 2022
+pushpa ia good movie
