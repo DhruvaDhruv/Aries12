@@ -11,3 +11,4 @@ Mahesh babu is superstar
 ......
 India Vs Srilanka test on friday
 Explore Yourself
+Html is used to create static web page
